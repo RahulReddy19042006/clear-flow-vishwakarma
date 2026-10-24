@@ -1,0 +1,11 @@
+Component,Part / specification,Qty,Lead time,Est. cost (INR)
+MCU board,ESP32 DevKit (ESP-WROOM-32) for prototypes,2,"Local, 2-3 days",1000
+Ultrasonic probe,AJ-SR04M waterproof module (low-cost class),2,"Online, 3-5 days",700
+Temperature sensor,DS18B20 waterproof probe for speed-of-sound compensation,2,"Local, 2-3 days",200
+Cell + charger,"LiFePO4 18650 cell, holder, LiFePO4-specific charge module",2,"Local/online, 3-5 days",800
+Enclosure + bracket,"IP67 ABS box, PG7 gland, SS304 bracket, silica gel",2 sets,"Local, 2-3 days",800
+LoRa radio,"SX1262 module, 865 MHz antenna (IN865)",2,"Online, 7-10 days",4200
+LoRaWAN gateway,"Indoor 8-channel gateway, IN865",1,"Online, 7-10 days",12000
+Custom PCB,"2-layer FR4, fabricated (5 pcs)",5,"Domestic, 6-8 days",1500
+Pilot comparison unit,Industrial IP67 ultrasonic (MaxBotix HRXL-MaxSonar-WR class),1,"Online, 7-10 days",not included in total
+Total (estimate),2 field nodes + 1 shared gateway (excluding the comparison unit),,,21200

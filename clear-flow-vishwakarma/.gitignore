@@ -1,0 +1,9 @@
+# Never commit real credentials
+secrets.h
+*.secret
+.env
+
+# Editor / OS files
+.DS_Store
+Thumbs.db
+*.bak
